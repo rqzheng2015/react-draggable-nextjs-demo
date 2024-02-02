@@ -1,0 +1,1 @@
+export const DRAGGABLE_BORDER_WIDTH = 4
