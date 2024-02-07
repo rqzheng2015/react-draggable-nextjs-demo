@@ -4,7 +4,7 @@ import { useState, useRef } from 'react'
 import { DRAGGABLE_BORDER_WIDTH } from '@/app/utils/constant'
 
 const INITIAL_SIDEBAR_WIDTH = 400
-const MINIMUM_SIDEBAR_WIDTH = 300
+const MINIMUM_SIDEBAR_WIDTH = 200
 
 interface IRightSidebarProps {}
 

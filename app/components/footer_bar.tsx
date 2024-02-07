@@ -5,7 +5,7 @@ import Image from 'next/image'
 import { DRAGGABLE_BORDER_WIDTH } from '@/app/utils/constant'
 
 const INITIAL_FOOTER_HEIHGT = 250
-const MINIMUM_FOOTER_HEIGHT = 150
+const MINIMUM_FOOTER_HEIGHT = 100
 const TITLE_BAR_HEIGHT = 32
 const EXPAND_SVG = '/ide/footer/expand.svg'
 const COLLAPSE_SVG = '/ide/footer/collapse.svg'
